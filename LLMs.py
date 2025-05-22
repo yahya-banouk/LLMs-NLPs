@@ -169,7 +169,7 @@ Fields:
 - certifications (list of certifications)
 - languages (list of languages)
 - location
-- skills (list)
+- skills (list of skills)
 
 Respond in JSON format.
 
